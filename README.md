@@ -6,7 +6,7 @@
 ## Contato 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizdevs/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souza.henrique1@academico.ifg.edu.br)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.henrique@estudantes.ifg.edu.br)
 
 ---
 
