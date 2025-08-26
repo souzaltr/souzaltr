@@ -1,6 +1,7 @@
 <h3 align="left">🎓 Estudante de Ciência da Computação no IFG - Anápolis</h3>
 
-<h3>📫 Como me encontrar: <a href="mailto:souzaluiz.dev@gmail.com">souzaluiz.dev@gmail.com</a></h3>
+<h3>📫 Como me encontrar: <a href="https://mail.google.com/mail/?view=cm&to=souzaluiz.dev@gmail.com" target="_blank">souzaluiz.dev@gmail.com</a>
+</h3>
 
 <h3 align="left">🌐 Conecte-se comigo: 
   <a href="https://linkedin.com/in/luizdevs" target="_blank">LinkedIn</a>
